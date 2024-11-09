@@ -20,6 +20,10 @@ Create a virtual environment:
 npm install
 ```
 
+## Configuration
+
+Set up your `.env.development`, `.env.local`, and `.env.production` files.
+
 ## Running the Application
 
 ```bash
